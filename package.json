@@ -1,0 +1,21 @@
+{
+  "name": "redishw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "flat": "^4.0.0",
+    "mongodb": "^2.2.33",
+    "node-redis": "^0.1.7",
+    "redis": "^2.8.0",
+    "settings": "^0.1.1"
+  }
+}
